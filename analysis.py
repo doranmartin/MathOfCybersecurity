@@ -1,5 +1,5 @@
-num = -402
-num2 = 21
+num = -1
+num2 = 7
 
 for x in range(0, 100):
     num += 26
