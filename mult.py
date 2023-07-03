@@ -1,8 +1,8 @@
 
 # add tools for monoalphabetic ciphers :)
 
-plain = ord('h') - ord('a') + 1
-cipher = ord('P') - ord('A') + 1
+plain = ord('t') - ord('a') + 1
+cipher = ord('J') - ord('A') + 1
 
 s = [1, 3, 5, 7, 9, 11, 15, 17, 19, 21, 23, 25]
 
